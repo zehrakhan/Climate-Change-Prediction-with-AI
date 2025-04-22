@@ -47,7 +47,9 @@ The core objective is to model historical temperature trends and determine wheth
 
 ## 📄 Thesis Report
 
-- Thesis report is written in LateX.
+- The thesis report is written in LaTeX.
+- Source code is available in the zip folder: `Zahra_Thesis_Final_report_v9.zip`.
+- The final PDF report can be found here: `Zahra_Thesis_Final_report_v9.pdf`.
 
 ## ⚙️ Requirements
 
