@@ -6,19 +6,19 @@ matplotlib==3.8.4
 seaborn==0.13.2
 
 # Time series models
-statsmodels==0.14.1    # For ARIMA
-pmdarima==2.0.4        # Auto ARIMA
+statsmodels==0.14.1    
+pmdarima==2.0.4        
 
 # Machine Learning
 xgboost==2.0.3
-lightgbm==4.3.0        # Optional, if used or experimented
+lightgbm==4.3.0        
 
 # Deep Learning
 tensorflow==2.15.0
 keras==2.15.0
 torch==2.2.1
-transformers==4.39.3   # Hugging Face Transformers
-einops==0.7.0          # For Transformer or hybrid architectures
+transformers==4.39.3   
+einops==0.7.0         
 
 # Utilities
 tqdm==4.66.2
@@ -29,8 +29,8 @@ scipy==1.13.0
 notebook==7.1.1
 ipykernel==6.29.3
 
-# Visualization enhancements (optional)
+# Visualization enhancements 
 plotly==5.20.0
 
-# Exporting/reporting (if you used)
+# Exporting/reporting 
 nbconvert==7.16.3
