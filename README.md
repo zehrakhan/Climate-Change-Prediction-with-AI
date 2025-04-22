@@ -37,8 +37,7 @@ The study compares traditional, machine learning, deep learning, and hybrid mode
 - **Train/Validation/Test Split**: 70/15/15  
 - **Feature**: `YearsSince1744`  
 - **Target**: `AverageTemperature`  
-- **Metrics**: MAE, RMSE, R² Score  
-- **Loss Curves**: Included in `results/` folder  
+- **Metrics**: MAE, RMSE, R² Score   
 - **Reproducibility**: `random_state=42` used throughout
 
 ## 🔍 Objective
